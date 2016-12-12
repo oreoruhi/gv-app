@@ -1,0 +1,21 @@
+.content-body {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(100%,#444), color-stop(10%,#000));
+    min-height: 100%;
+}
+
+.content-body > .gv-img img {
+    max-width: 80%;
+    margin-top: 800%;
+}
+
+.content-body > .header {
+    -webkit-flex: 4;
+    margin-top: 10px;
+}
+
+.bar.bar-black {
+border: none;
+background-color: #000;
+color: #fff; }
+
+
